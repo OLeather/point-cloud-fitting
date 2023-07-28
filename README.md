@@ -16,3 +16,4 @@ Data was generated using a perlin noise function which generates random smooth c
 # Results
 ![image](images/output4.png)
 ![image](images/output5.png)
+![image](images/output6.png)
